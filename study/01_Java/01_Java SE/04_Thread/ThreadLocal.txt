@@ -1,0 +1,14 @@
+
+ThreadLocal就像一个工具一样，协助你
+把变量放入线程中的ThreadLocalMap中
+
+ThreadLocal与Filter完美结合
+
+
+
+
+FTP监听两个端口，一个接受命令和密码等20端口
+21端口，进行数据的传输
+
+
+
